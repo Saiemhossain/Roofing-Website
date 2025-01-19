@@ -6,8 +6,7 @@
 // const menuClose = document.querySelector('.close');
 // const navLinks = document.querySelectorAll('.mobile-menu a'); // select all nav links
 
-  menuOpen.style.display = 'block'; 
-  menuClose.style.display = 'none'; 
+  
 
 // menuOpen.addEventListener('click', () => {
 //   mobileMenu.style.left = '0';
