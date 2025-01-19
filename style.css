@@ -142,6 +142,10 @@ display: none;
   display: none;
 }
 
+.open{
+  display: block;
+}
+
 
 
 .mobile-menu{
